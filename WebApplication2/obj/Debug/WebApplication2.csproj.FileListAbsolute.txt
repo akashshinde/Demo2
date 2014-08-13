@@ -4,7 +4,3 @@ c:\users\mohan\documents\visual studio 2013\Projects\WebApplication2\WebApplicat
 c:\users\mohan\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 c:\users\mohan\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
 C:\Users\Mohan\Documents\Visual Studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
-C:\Users\Mohan\Documents\Visual Studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\Package\PackageTmp\bin\WebApplication2.dll
-C:\Users\Mohan\Documents\Visual Studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\Package\PackageTmp\bin\WebApplication2.pdb
-C:\Users\Mohan\Documents\Visual Studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\Package\PackageTmp\HtmlPage1.html
-C:\Users\Mohan\Documents\Visual Studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\Package\PackageTmp\Web.config
